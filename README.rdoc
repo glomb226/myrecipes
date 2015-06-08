@@ -34,3 +34,12 @@ Testing specs for recipes
 
 *must be present
 
+Chefs
+-add passwords for authentication and login
+-use email as login
+-Ability to register new chefs 
+-ability to display chefs profile
+-abilty to list chefs using app
+-log in and log out
+-restrict actions like create, edit, and like to logged in only
+-restrict edit and deletion of other chefs recipes
